@@ -1,0 +1,49 @@
+EnemyMovement
+	player
+	player health
+	enemy health
+	Too close collider 
+	within range collider
+	nav mesh
+	right or left = 50
+	random
+
+	Awake
+		get the player
+		get the players health
+		get your own health
+		get the two children trigger colliders
+		get the nav mesh
+		set seed for random
+		
+	Update
+		IsPlayerInRange
+		movement
+		
+	IsPlayerInRange
+		get if the player has triggered 'within range' collider
+		get if the player has triggered 'Too close' collider
+		
+	movement
+		if the player and self still have health
+			if the player has triggered 'Too close' collider
+				set destination to behind self by X units
+			else if the player has triggered 'within range' collider
+				get left or right
+				set destination to left or right of self by 1 unit.
+			else
+				set destination to players position
+		else
+			disable nav mesh.
+		
+	get left or right
+		get a random int from 1 to 100
+		if random < right or left
+			set destination to the right of self
+			right or left = right or left - 1
+		else if random > right or left
+			set destination to the left of self
+			right or left = right or left + 1
+		else
+			explode from confusion
+		
