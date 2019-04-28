@@ -39,6 +39,13 @@ public class PauseGameManager : MonoBehaviour
         Time.timeScale = 1;
         isGamePaused = false;
     }
+    /*
+    The functions Update() ,Pause() and Resume() are copied from functions of the same name from the source below.
 
-
+    Title : PAUSE MENU in Unity
+    Author : Brackeys
+    Date Accessed : 07/04/2019
+    Code Version : 1.0
+    Availability : https://www.youtube.com/watch?v=JivuXdrIHK0
+     */
 }

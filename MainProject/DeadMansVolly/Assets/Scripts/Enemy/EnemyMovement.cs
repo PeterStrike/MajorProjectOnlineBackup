@@ -100,7 +100,7 @@ public class EnemyMovement : MonoBehaviour
         if (directionNumber > leftOrRight)
         { 
             //left
-            leftOrRight -= 1;
+            leftOrRight -= 1; // 15/04/2019: I just relised that this function increases the likly hood that the enemy will move in one direction rarther than decreaseing it. I currently don't have time to fix this as I am currently trying to write the report. That and the current behavior might be more desirable. who knows?
             return true;
         }
         else if (directionNumber < leftOrRight)

@@ -387,8 +387,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Currently not implimented. \nWould provide the player \nwith graphical
-    options like \nsetting the resolution, or \nthe maximum framerate."
+  m_Text: "Currently not implemented. \nWould provide the player \nwith graphical
+    options like \nsetting the resolution, or \nthe maximum frame rate."
 --- !u!222 &66721783
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -467,8 +467,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Currently not implimented.\nWould provide options to \nmake the game more
-    accessable \nto the disabled, like colour \noptions for the colour blind, \nor
+  m_Text: "Currently not implemented.\nWould provide options to \nmake the game more
+    accessible \nto the disabled, like colour \noptions for the colour blind, \nor
     subtitles for the deaf."
 --- !u!222 &71286330
 CanvasRenderer:
@@ -2127,7 +2127,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Currently not implimented.\nWould allow players to play \nagainst friends
+  m_Text: "Currently not implemented.\nWould allow players to play \nagainst friends
     in matches \nsimilar to tennis."
 --- !u!222 &585958394
 CanvasRenderer:
@@ -2692,7 +2692,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: DEAD MAN'S VOLLY
+  m_Text: DEAD MAN'S VOLLEY
 --- !u!222 &691613633
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2850,7 +2850,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Currently not implimented.\nWould have buttons providing \naccess to different
+  m_Text: "Currently not implemented.\nWould have buttons providing \naccess to different
     levels and \nchapters of a narrative."
 --- !u!222 &719481577
 CanvasRenderer:
@@ -3893,7 +3893,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Currently not implimented\nWould allow the player to \nlook at games models,
+  m_Text: "Currently not implemented\nWould allow the player to \nlook at games models,
     \nconcept notes, check statistics \nand listen to game music."
 --- !u!222 &1016431232
 CanvasRenderer:
@@ -8173,8 +8173,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Currently not implimented.\nWould allow the player to \nadjust the volume
-    of the game, \nseperating sound effects, music \nand cut-scene volume."
+  m_Text: "Currently not implemented.\nWould allow the player to \nadjust the volume
+    of the game, \nseparating sound effects, music \nand cut-scene volume."
 --- !u!222 &2143539428
 CanvasRenderer:
   m_ObjectHideFlags: 0
